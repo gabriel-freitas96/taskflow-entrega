@@ -9,9 +9,9 @@
 | Nome   | GitHub             |
 |--------|--------------------|
 | Gabriel | [@gabriel-freitas96](https://github.com/gabriel-freitas96) |
-| Henry   | @henry             |
-| Miguel  | @miguel            |
-| Erick   | @erick             |
+| Henry   | @henryGaldino      |
+| Miguel  | @miguelViana       |
+| Erick   | @ericKsm7          |
 
 ---
 
